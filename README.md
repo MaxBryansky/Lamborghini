@@ -1,4 +1,4 @@
-# Lamborghini
+# Вёрстка лендинга Lamborghini
 - HTML 5
 - CSS 3
 - JavaScript
