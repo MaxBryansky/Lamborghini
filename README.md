@@ -3,4 +3,4 @@
 - CSS 3
 - JavaScript
 
-Can you view [project] (https://github.com/MaxBryansky/Lamborghini)
+Can you view [project] (https://maxbryansky.github.io/Lamborghini/)
